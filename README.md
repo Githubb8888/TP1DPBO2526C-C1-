@@ -23,4 +23,4 @@ Below is the visual proof that the program runs successfully across all four pro
 1. C++ Output (CLI) -> cpp.png
 2. Python Output (CLI) -> python.png
 3. Java Output (CLI) -> java.png
-4. PHP Output (Web) -> php.png
+4. PHP Output (Web) -> php.png & php1.png
